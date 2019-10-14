@@ -9,10 +9,7 @@ import org.junit.jupiter.api.Test;
 
 import main.primefactor;
 
-class testing {
-	private List<Integer> list(Integer...integers){
-		return Arrays.asList(integers);
-	}
+
 	
 
 	@Test
